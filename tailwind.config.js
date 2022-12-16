@@ -13,6 +13,9 @@ module.exports = {
         "Very-Light-Gray": "hsl(0, 0%, 98%)",
       },
     },
+    fontFamily: {
+      Poppins: ["Poppins", "sans-serif"],
+    },
   },
   plugins: [],
 };
